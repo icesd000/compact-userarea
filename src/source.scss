@@ -90,7 +90,7 @@
     border-radius: 5px;
     max-width: 104px;
     padding: 2px 0 2px 0;
-    margin-left: -10px;
+    margin-left: 65px;
     z-index: 5;
     top: 33px;
     opacity: 0;
@@ -109,17 +109,8 @@
     }
 }
 
-.panels-j1Uci_ {  
-    & > .container-3baos1 { /* ty Creation's */
-        height: 0;
-        width: 0;
-    }
-
-    & > .activityPanel-28dQGo {
-        margin-bottom: -2px;
-    }
-
-    &.hoverRoll-YK53gQ .customStatus-3tC2ig { /* ty botato */
+.panels-j1Uci_ { /* ty botato */
+    &.hoverRoll-YK53gQ .customStatus-3tC2ig {
         opacity: 0;
     }
 
